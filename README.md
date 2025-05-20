@@ -1,2 +1,2 @@
-# Hacker-Runner-Unity
+# Kill-Them-all-game-runner-Unity
 Проект УрФУ 2025 с созданием ранера и последующей его монетизацией на платформе Yandex.
