@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09f060ef41a432548a1bfab705f11885
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 211244
+  packageName: 'Knife: M9 Bayonet'
+  packageVersion: 1.0
+  assetPath: Assets/Knife M9 Bayonet/Materials/m9_bayonet_plastic_MAT_Standard.mat
+  uploadId: 475002

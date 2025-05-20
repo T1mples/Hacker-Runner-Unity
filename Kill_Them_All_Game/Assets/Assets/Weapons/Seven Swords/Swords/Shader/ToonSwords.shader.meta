@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87da13725bba3414680699018810b99f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14304
+  packageName: Seven Swords - Seven Stylized Swords
+  packageVersion: 1.0
+  assetPath: Assets/Seven Swords/Swords/Shader/ToonSwords.shader
+  uploadId: 2115

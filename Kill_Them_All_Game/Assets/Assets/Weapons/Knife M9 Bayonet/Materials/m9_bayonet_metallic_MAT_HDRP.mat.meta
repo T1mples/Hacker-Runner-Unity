@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45a028d0fe36ba94c823f7b7c1594b96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 211244
+  packageName: 'Knife: M9 Bayonet'
+  packageVersion: 1.0
+  assetPath: Assets/Knife M9 Bayonet/Materials/m9_bayonet_metallic_MAT_HDRP.mat
+  uploadId: 475002

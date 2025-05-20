@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19c69010bf9d5d547bc54bd1c847857e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 211244
+  packageName: 'Knife: M9 Bayonet'
+  packageVersion: 1.0
+  assetPath: Assets/Knife M9 Bayonet/Demo/Demo_plane_MAT.mat
+  uploadId: 475002
